@@ -1,23 +1,12 @@
 version: "2"
 fields:
-  - id: MQTT_USERNAME
+  - id: ADMIN_CLIENT_HOST
     target:
       type: environment
-      name: MQTT_USERNAME
+      name: ADMIN_CLIENT_HOST
       service: relay
-    title: MQTT Broker Username
+    title: Lattice URL
     description: >-
-      Username for the MQTT Broker (Recommended: Generate Random Username)
+      Lattice URL e.g. "http://GridPlus-xxxxxxxxxxx.local" or "http://192.168.1.69"
     secret: false
-    required: true
-  
-  - id: MQTT_PASSWORD
-    target:
-      type: environment
-      name: MQTT_PASSWORD
-      service: relay
-    title: MQTT Broker Password
-    description: >-
-      Password for the MQTT Broker (Recommended: Generate Random Password)
-    secret: true
     required: true
