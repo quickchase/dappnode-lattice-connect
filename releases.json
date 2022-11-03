@@ -5,25 +5,5 @@
       "http://localhost:5001": "Thu, 03 Nov 2022 14:43:53 GMT"
     },
     "link": "https://dappnode.github.io/sdk-publish/?r=lattice-connect.public.dappnode.eth&v=1.0.0&h=%2Fipfs%2FQmQdtY4oaUtNdYGXp1Nwx3ARua2gMgZztxHSDSiRjrdb1E&d=0x8aE6422631292c31aeeB2efe154d6326f703F46b"
-  },
-  "1.1.0": {
-    "hash": "/ipfs/QmZTS8wSoQe4XuvrqvUaqNZKX1cJbBG7hcgAkcAuBzkCHT",
-    "uploadedTo": {
-      "http://localhost:5001": "Wed, 09 Feb 2022 16:51:28 GMT"
-    }
-  },
-  "1.1.1": {
-    "hash": "/ipfs/QmZKngoW6nniAmGXhyjgQwwkTGMAaLagyBXSURKHdXVbZR",
-    "uploadedTo": {
-      "http://localhost:5001": "Tue, 15 Feb 2022 00:37:15 GMT"
-    },
-    "link": "https://dappnode.github.io/sdk-publish/?r=lattice-connect.public.dappnode.eth&v=1.1.1&h=%2Fipfs%2FQmZKngoW6nniAmGXhyjgQwwkTGMAaLagyBXSURKHdXVbZR&d=0x8aE6422631292c31aeeB2efe154d6326f703F46b"
-  },
-  "1.2.0": {
-    "hash": "/ipfs/QmcRPkZmYkodRdAWmpFNNTGYKNFzeg55sX9yu89Aiyt9Z3",
-    "uploadedTo": {
-      "http://localhost:5001": "Thu, 03 Nov 2022 13:42:02 GMT"
-    },
-    "link": "https://dappnode.github.io/sdk-publish/?r=lattice-connect.public.dappnode.eth&v=1.2.0&h=%2Fipfs%2FQmcRPkZmYkodRdAWmpFNNTGYKNFzeg55sX9yu89Aiyt9Z3&d=0x8aE6422631292c31aeeB2efe154d6326f703F46b"
   }
 }
